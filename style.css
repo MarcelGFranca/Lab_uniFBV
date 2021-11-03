@@ -16,3 +16,15 @@ li {
   text-align: left;
   margin: 0 auto;
 }
+
+h1 {
+  color: red;
+}
+
+strong {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
